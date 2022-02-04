@@ -14,8 +14,8 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
-BASE_NAME = ""
+BASE_IMAGE_URL = "https://gateway.pinata.cloud/ipfs/QmYkFBupxUWds18DkQnEws5Mh7gQkBy27Fkt7HBdaLdnCu"
+BASE_NAME = "G Learner NFT #"
 
 BASE_JSON = {
     "name": BASE_NAME,
